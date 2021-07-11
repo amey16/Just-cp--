@@ -3,7 +3,6 @@
 #include<queue>
 #include<stack>
 #include<algorithm>
-#include<string>
 using namespace std;
 
 struct Node{
@@ -59,13 +58,7 @@ int main(){
     vector<int> arr1(n);
     for(int i=0;i<n;i++)
         cin>>arr1[i];
-    
-    int n1;
-    cin>>n1;
-    vector<int> arr2(n1);
-    for(int i=0;i<n1;i++)
-        cin>>arr2[i];
-    
+        
     Node* root1 = newNode(arr1[0]);
     stack<Node*> st1;
     st1.push(root1);
@@ -79,26 +72,8 @@ int main(){
             st1.push(t);
         }
     }
-    Node* root2 = newNode(arr2[0]);
-    stack<Node*> st2;
-    st2.push(root2);
-    for(int i=1;i< arr2.size();i++){
-        if(arr2[i] == -1){
-            // if(!st2.empty())
-                st2.pop();
-        }
-        else{
-            Node* t = newNode(arr2[i]);
-            (st2.top()->children).push_back(t);
-            st2.push(t);
-        }
-    }
-    
-    // display(root1);
-    // cout<<endl;
-    // display(root2);
-    
-    if(isMirror(root1,root2))
+  
+    if(isMirror(root1,root1))
         cout<<"true"<<endl;
     else
         cout<<"false"<<endl;
