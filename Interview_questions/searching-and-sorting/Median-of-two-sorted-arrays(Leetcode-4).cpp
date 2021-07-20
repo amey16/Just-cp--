@@ -1,4 +1,5 @@
-// Bonary search
+// Binary search
+// https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 class Solution {
 public:

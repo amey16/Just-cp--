@@ -1,4 +1,5 @@
 // geeks for geeks
+// https://www.geeksforgeeks.org/counting-inversions/
 
 #include<iostream>
 #include<vector>

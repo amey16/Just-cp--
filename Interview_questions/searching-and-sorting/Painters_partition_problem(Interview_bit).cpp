@@ -1,4 +1,6 @@
 // binary search - good question
+// https://www.interviewbit.com/problems/painters-partition-problem/#
+
 int Solution::paint(int A, int B, vector<int> &C) {
     long long int lo = *max_element(C.begin(),C.end());
     if(A >=C.size())

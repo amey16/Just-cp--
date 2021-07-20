@@ -1,5 +1,6 @@
 // very good question
 // binary search
+// https://leetcode.com/problems/k-th-smallest-prime-fraction/
 
 class Solution {
 public:
