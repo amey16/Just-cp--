@@ -1,0 +1,10 @@
+# Notes
+- Page 1 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 11 27 (1)](https://user-images.githubusercontent.com/51751926/126569461-ba86e390-805d-4064-89eb-710e96164615.jpeg)
+- Page 2 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 11 55](https://user-images.githubusercontent.com/51751926/126569482-eec646d0-b781-4aa3-9b6d-132b9ca02ca0.jpeg)
+- Page 3 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 12 37](https://user-images.githubusercontent.com/51751926/126569503-ebc0e9ad-7f20-4e6e-886c-f468c3af538f.jpeg)
+- Page 4 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 13 21](https://user-images.githubusercontent.com/51751926/126569513-7dfcefeb-0515-43fd-a1a2-7e836fee20e0.jpeg)
+- Page 5 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 13 49](https://user-images.githubusercontent.com/51751926/126569523-0334558f-86a2-4e54-9df6-c295963c4149.jpeg)
+- Page 6 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 14 09](https://user-images.githubusercontent.com/51751926/126569536-0a0b97b7-b3f5-4703-842f-8500c5b97b5c.jpeg)
+- Page 7 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 14 37](https://user-images.githubusercontent.com/51751926/126569560-f7e99ba1-5a71-475b-a0a1-e64fd66acb7d.jpeg)
+- Page 8 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 15 02](https://user-images.githubusercontent.com/51751926/126569576-10ce86a1-f4bf-4961-80a7-ae825229fed8.jpeg)
+- Page 9 <br/> <br/> ![WhatsApp Image 2021-07-22 at 04 15 20](https://user-images.githubusercontent.com/51751926/126569590-dab30272-bb69-4dca-8632-0c77ed2c5063.jpeg)
